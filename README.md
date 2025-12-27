@@ -16,9 +16,3 @@ A variety of Computer Vision projects:
 - Project 3: Image Classification and Segmentation
   
   Image classification and segmentation using convolutional neural networks.
-
-
-- Final Project: Image to Image Translation using Cyclic Generative Adversarial Networks
-  
-  Selfie to anime face translation is done by training 2 discriminator models and 2 generative models,
-  which continue to learn and improve.
